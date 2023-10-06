@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-09-28T17:29:15.171Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-09-28T17:21:15.171Z"
+    },
+    {
+      "id": 3,
+      "description": "Hotel",
+      "type": "outcome",
+      "category": "Hospedagem",
+      "price": 1860,
+      "createdAt": "2023-09-28T17:21:15.171Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de App",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2023-10-04T13:14:32.687Z",
+      "id": 4
+    },
+    {
+      "category": "Alimentação",
+      "createdAt": "2023-10-04T13:43:52.596Z",
+      "description": "Biscoito",
+      "price": 6,
+      "type": "outcome",
+      "id": 5
+    },
+    {
+      "category": "Lazer",
+      "createdAt": "2023-10-06T17:39:11.701Z",
+      "description": "Viagem",
+      "price": 2500,
+      "type": "outcome",
+      "id": 6
+    }
+  ]
+}
